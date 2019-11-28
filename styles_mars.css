@@ -1,0 +1,25 @@
+a.navbar-brand {
+    text-align: center;
+    color: red;
+    font-size: large;
+  } 
+a.nav-link {
+    text-align: center;
+    color: red;
+    font-size: large;
+} 
+body {
+    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/649694main_pia15417-43_full.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body.container {
+    padding: 10px;
+}
+nav {
+    text-align: center;
+    padding: 10px;
+}
+footer {
+    padding: 10px;
+}
