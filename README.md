@@ -1,6 +1,6 @@
 # Web Scraping Challenge
 
-In this project I was 
+In this challenge, the goal was to scrape data from NASA's twitter account for the latest updates, pictures, and other information on the exploration of Mars. After scraping the data, I was tasked with pulling it ont
 
 ## Getting Started 
 
